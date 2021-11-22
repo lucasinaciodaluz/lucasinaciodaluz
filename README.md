@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @lucasinaciodaluz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Lucas Inacio
 
-<!---
-lucasinaciodaluz/lucasinaciodaluz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! My name is Lucas Inacio and I am currently a Software Engineer passionate about solving problems with technology and creating different solutions.
+
+Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.   💻   🚀
+
+🏡   I love being with my family and friends, they are everything to me.\
+✈️   I love to travel and get to know new places and cultures.\
+⚽   Passionate about football.\
+👨‍🎓   My academic life.here
