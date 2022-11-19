@@ -7,4 +7,3 @@ Stay free to know a little more about my life, follow me on my networks where I 
 🏡   I love being with my family and friends, they are everything to me.\
 ✈️   I love to travel and get to know new places and cultures.\
 ⚽   Passionate about football.\
-👨‍🎓   My academic life.here
